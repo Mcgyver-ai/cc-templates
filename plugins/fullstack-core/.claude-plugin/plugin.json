@@ -1,0 +1,9 @@
+{
+  "name": "fullstack-core",
+  "version": "1.0.0",
+  "description": "Full-stack engineer kit: 12 agents, 9 commands, 17 skills (frontend, backend, DB, security, testing, deploy).",
+  "author": {
+    "name": "Mcgyver-ai"
+  },
+  "license": "MIT"
+}

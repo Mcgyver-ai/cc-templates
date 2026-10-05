@@ -1,0 +1,29 @@
+{
+  "name": "cc-templates",
+  "owner": {
+    "name": "Mcgyver-ai"
+  },
+  "description": "Curated Claude Code Templates (aitmpl.com) bundles for full-stack engineering.",
+  "plugins": [
+    {
+      "name": "fullstack-core",
+      "source": "./plugins/fullstack-core",
+      "description": "Full-stack engineer kit: 12 agents, 9 commands, 17 skills (frontend, backend, DB, security, testing, deploy).",
+      "category": "development",
+      "tags": [
+        "full-stack",
+        "aitmpl"
+      ]
+    },
+    {
+      "name": "extra-picks",
+      "source": "./plugins/extra-picks",
+      "description": "Second-opinion picks from aitmpl.com: extra agents, commands and skills for full-stack work.",
+      "category": "development",
+      "tags": [
+        "full-stack",
+        "aitmpl"
+      ]
+    }
+  ]
+}

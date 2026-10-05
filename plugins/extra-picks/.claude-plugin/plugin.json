@@ -1,0 +1,9 @@
+{
+  "name": "extra-picks",
+  "version": "1.0.0",
+  "description": "Second-opinion picks from aitmpl.com: extra agents, commands and skills for full-stack work.",
+  "author": {
+    "name": "Mcgyver-ai"
+  },
+  "license": "MIT"
+}
